@@ -785,5 +785,6 @@ In addition to carrying out the entire model development process with Azure ML n
 As another example of using Jupyter noteebook, you can test out Python code that will be used in the "Execute Python Script" module in an Azure ML Studio experiment.
 
 ---  
-Created by a Microsoft Employee.  
-Copyright (C) Microsoft. All Rights Reserved.
+## References
+01. azure machine learning studio python note book house price prediction demo
+
